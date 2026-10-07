@@ -1,0 +1,27 @@
+body	{ background-color:#FFF7e6; 
+	  background-position: center; }
+
+table	{ border-spacing: 10px; 
+	  border-color: #000000; }
+
+td	{ padding: 10px; }
+
+h2 	{ font-family: Calibri,Arial,sans-serif;
+	  color: #B46A72;
+	  text-align: center;
+	  font-size: 24pt; }
+
+h3 	{ font-family: Calibri,Arial,sans-serif;
+	  color: #B46A72;
+	  text-align: left;
+	  font-size: 24pt; }
+
+h4 	{ font-family: Calibri,Arial,sans-serif;
+	  color: #16131F;
+	  text-align: left;
+	  font-size: 16pt; }
+
+p 	{ font-family: Calibri,Arial,sans-serif;
+	  color: #B46A72;
+	  text-align: center;
+	  font-size: 12pt; }
