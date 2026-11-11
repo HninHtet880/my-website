@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 /* Accessibility improvements */
 
@@ -56,3 +57,63 @@ li {
     color: #30252A;
     padding: 10px;
 }
+=======
+
+/* Accessibility improvements */
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Improve readability of table content */
+td {
+    background-color: #ebe4e7;
+    color: #30252A;
+	padding: 10px;
+}
+
+/* Make headings easier to read */
+h1, h2
+{
+	font-family: Arial, sans-serif;
+    color: #59343A
+} 
+
+h3 {
+    font-family: Arial, sans-serif;
+    color: #59343A;
+	text-align: center;
+	font-size: 100pt;
+}
+
+/* Improve paragraph readability */
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #30252A;
+    text-align: left;
+    line-height: 1.6;
+}
+
+/* Make links easier to identify */
+a:hover {
+    color: #59343A;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+/* Improve list readability */
+li {
+    font-size: 16px;
+    color: #30252A;
+}
+
+#theories 
+{
+	background-color: #ebe4e7;
+    color: #30252A;
+    padding: 10px;
+}
+>>>>>>> 51efc2b99fc21a2ea1511b69a9fcbdbd8b9493dc
